@@ -1,0 +1,7 @@
+﻿  Bank Charges.cpp
+C:\Users\ruben\Desktop\Bank Charges\Bank Charges\Bank Charges.cpp(44,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ruben\Desktop\Bank Charges\Bank Charges\Bank Charges.cpp(48,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ruben\Desktop\Bank Charges\Bank Charges\Bank Charges.cpp(51,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ruben\Desktop\Bank Charges\Bank Charges\Bank Charges.cpp(54,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ruben\Desktop\Bank Charges\Bank Charges\Bank Charges.cpp(90,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bank Charges.vcxproj -> C:\Users\ruben\Desktop\Bank Charges\Debug\Bank Charges.exe
